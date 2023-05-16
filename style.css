@@ -66,6 +66,7 @@
 .prop.h {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .prop div:first-child {
